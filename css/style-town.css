@@ -1,0 +1,46 @@
+h1 {
+  color: black;
+  font-size: 40px;
+  font-family: Verdana;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  font-size: 25px;
+  font-family: Times New Roman;
+  text-align: center;
+}
+
+body {
+  background-color: #d3deed;
+}
+
+p.start {
+  text-align: right;
+  line-height: 2;
+}
+
+p.main-text {
+  text-align: justify;
+  line-height: 1.3;
+}
+
+div.block1 {
+  padding-bottom: 0;
+  padding-left: 450px;
+  padding-right: 450px;
+}
+
+img.main-image {
+  height: 200px;
+  width: 300px;
+  border: 2px solid #337fb3;
+  float: left;
+}
+
+img.extra-image {
+  border: 2px solid;
+  float: right;
+  margin: 0 0 10px 10px;
+}
